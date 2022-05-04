@@ -12,6 +12,7 @@ sklearn = "*"
 tensorflow = "*"
 ipykernel = "*"
 opencv-python = "*"
+tensorflow-datasets = "*"
 
 [dev-packages]
 
