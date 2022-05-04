@@ -128,5 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# lab1-data
+# ignore dataset
 Lab1/original_data
+Lab1/experiment_small_data
+Lab1/experiment_tiny_data
