@@ -13,6 +13,8 @@ tensorflow = "*"
 ipykernel = "*"
 opencv-python = "*"
 tensorflow-datasets = "*"
+nltk = "*"
+pyjokes = "*"
 
 [dev-packages]
 
